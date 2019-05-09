@@ -8,6 +8,8 @@ SASS
 
 Bootstrap 4
 
+RegEx
+
 JavaScript
 
 TypeScript
